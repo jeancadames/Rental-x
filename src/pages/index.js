@@ -1,2 +1,2 @@
-export * from './CarDetailPage';
+// export * from './CarDetailPage';
 export * from './RentPage';
